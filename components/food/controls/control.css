@@ -1,0 +1,12 @@
+.control {
+    width: 100%;
+    align-items: center;
+    text-align: center;
+}
+.control button {
+    width: 80px;
+    height: 40px;
+    margin: 15px 20px;
+    cursor: pointer;
+    justify-content: space-between;
+}

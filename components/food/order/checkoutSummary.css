@@ -1,0 +1,8 @@
+.orderSummary{
+    position: absolute;
+    top: 40px;
+    color: blueviolet;
+    text-align: center;
+    width: 100%;
+    height: 300px;
+}

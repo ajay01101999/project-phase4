@@ -1,0 +1,37 @@
+.menu{
+    width: 250px;
+    background-color: rgb(101, 132, 245);
+    height: 683px;
+    color: white;
+    /* box-shadow: 1px 3px 120px grey; */
+    z-index: 80;
+    position: absolute;
+    top: 70px;
+    left: 0px;
+    overflow: hidden;
+}
+.head1{
+    position: absolute;
+    left: 40px;
+    top: 50px;
+}
+.child1{
+    position: absolute;
+    left: 80px;
+    top: 100px;
+    background-color: rgb(85, 117, 236);
+    padding: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.head2{
+    position: absolute;
+    left: 40px;
+    top: 160px;
+}
+.child2{
+    position: absolute;
+    left: 80px;
+    top: 205px;
+    font-size: 26px;
+}

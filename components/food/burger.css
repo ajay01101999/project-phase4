@@ -1,0 +1,23 @@
+.burger {
+    width: 40%;
+    height: 300px;
+    margin: auto;
+    text-align: center;
+    position: absolute;
+    top: 10%;
+    left: 30%;
+}
+.burger2{
+    width: 100%;
+    height: 506px;
+    position: absolute;
+    top: 60px;
+    overflow: scroll;
+}
+@media (max-width:500px) {
+    .burger{
+        width: 50%;
+        height: 230px;
+        left: 25%;
+    }
+}
